@@ -6,6 +6,7 @@
 
 \- 🌱 I’m currently learning :
   <br> &nbsp; ✔ Java.
+  <br> &nbsp; ✔ PHP.
   <br> &nbsp; ✔ Vue js.
 <br> \- 👯 I’m looking forward to collaborate on open source projects.
 <br> \- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉.

@@ -4,7 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-\- 🌱
+\- 🌱 I'm QA/QC Engineer. To follow my Testing career path, I'm into learning more about Automation Testing.
 <br> \- 👯 I’m looking forward to collaborate on open source projects.
 <br> \- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉.
 <br> \- Outside tech,  📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.

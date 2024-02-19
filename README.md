@@ -4,8 +4,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-\- 🌱 I'm QA/QC Engineer. To follow my Testing career path, I'm into learning more about Automation Testing.
-<br> \- 👯 I’m looking forward to collaborate on open source projects.
+\- 🌱 I am a student about to graduate from Ho Chi Minh City University of Information Technology. I have experience as a Software Testing and Quality Control Engineer at my University. I am looking for opportunities to improve my skills in the field of Software Testing, both on Mobile and Web Platforms. Additionally, I also want to learn more about Automated Testing because it will help me develop my skills further.
 <br> \- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉.
 <br> \- Outside tech,  📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
 <br> \- 📫 Reach out to me at: luongly2507@gmail.com.
